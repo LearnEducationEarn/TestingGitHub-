@@ -1,1 +1,28 @@
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <title>Shopping List</title>
+</head>
+<body>
+    <div class="site-content">
+    
+    <h1>Shopping List</h1>
+    <ul>
+        <li>Milk</li>
+        <li>Bread</li>
+        <li>Apples</li>
+    </ul>
+    <h2>Movies</h2>
+    <ol>
+        <li id="movie">Maan of style</li>
+        <li id="movie2">The matriks</li>
+        <li>The prestik</li>
+    </ol>
+    </div>
+</body>
+</html>
